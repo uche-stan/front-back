@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+/* Sweet Alert z-index */
+
+.swal2-container {
+    z-index: 2000 !important;
+  }
+  
