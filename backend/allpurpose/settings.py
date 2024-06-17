@@ -208,3 +208,14 @@ DJOSER = {
             "username_reset": "djoser.email.UsernameResetEmail",
     }
 }
+
+# .env files
+
+# SECRET_KEY=django-insecure-n0-(sv@b%u2(4f(q-zfx_$o@gr=)vv=xp$e62(r(^l115yf7%b
+# DEBUG=True
+# EMAIL_HOST=sandbox.smtp.mailtrap.io
+# EMAIL_HOST_USER=84bcf05bbf53d7
+# EMAIL_HOST_PASSWORD=b6f0a75ece2087
+# EMAIL_PORT=2525
+# DOMAIN=localhost:5000
+# EMAIL_BACKEND=django.core.mail.backends.console.EmailBackend
